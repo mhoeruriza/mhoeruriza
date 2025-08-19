@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on <a href="https://www.instagram.com/jabardigitalservice" target="_blank">Jabar Digital Service</a> as a Backend Engineer, focusing on ERP systems & API integrations.  
-- 🌱 Lagi explore lebih dalam di **Python with Django**.  
-- 👯 Open collaboration untuk **open-source, ERP, dan government digital projects**.  
-- 💬 Bisa ditanya seputar **PHP, Laravel, Express.js, Next.js, API, ERP Systems**.  
-- 🛠️ **Tech Stack**: Laravel, PHP, Express.js, Node.js, Python, Django, Next.js, Vue.js, JavaScript, TypeScript, TailwindCSS, Docker, Git.  
+- 🌱 I’m currently learning **Python with Django**.  
+- 👯 Open collaboration for **open-source, ERP, dan government digital projects**.  
+- 💬 Ask me about **PHP, Laravel, Express.js, Next.js, API, ERP Systems**.  
+- 🛠️ **Tech Stack**: Laravel, PHP, Express.js, Node.js, Python, Django, Next.js, Vue.js, JavaScript, TypeScript, TailwindCSS, Git.  
 - 👨‍👩‍👧 Proud dad of a lovely daughter & son ❤️.  
-- ☕ Fun fact: recharge energi dengan **ngoding, ngopi, dan quality time bareng keluarga**.  
+- ☕ Fun fact: recharging energy by **drinking coffee, and spending quality time with my family**.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhamad-hoeru-riza)
 
 ---
