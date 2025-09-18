@@ -41,6 +41,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mhoeruriza&show_icons=true&include_all_commits=true&count_private=true)
 
 ### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhoeruriza&layout=compact)
-
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhoeruriza&layout=compact)
